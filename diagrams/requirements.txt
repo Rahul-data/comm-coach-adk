@@ -1,0 +1,11 @@
+google-adk
+google-generativeai
+opencv-python
+mediapipe
+librosa
+transformers
+torch
+torchaudio
+openai-whisper
+nltk
+spacy
