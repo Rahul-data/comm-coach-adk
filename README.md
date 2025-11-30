@@ -66,7 +66,7 @@ An AI-powered multi-agent communication coaching system built with Google's Agen
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/comm-coach-adk.git
+git clone https://github.com/Rahul-data/comm-coach-adk.git
 cd comm-coach-adk
 ```
 
